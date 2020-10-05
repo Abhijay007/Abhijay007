@@ -1,4 +1,4 @@
-### Hi 👋, I am Abhijay jain 
+### Hi <img alt = gif src ="hand.gif" width= "35"/>, I am Abhijay jain 
 
 <!--
 **Abhijay007/Abhijay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
