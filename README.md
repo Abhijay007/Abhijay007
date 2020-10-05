@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on my web development
-- 🌱 I’m currently learning React.js and
+- 🔭 I’m currently working on my web development skills
+- 🌱 I’m currently learning React.js and DSA
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about : javascript
