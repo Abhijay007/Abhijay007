@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on my Web Development skills
-- 🌱 I’m currently learning React.js and DSA
-- 👯 I’m looking to collaborate on web development projects
-- 🤔 I’m looking for help with DSA
-- 💬 Ask me about : javascript
+- 🔭 I’m currently working on ... My Web Development skills and Open source
+- 🌱 I’m currently learning ... React.js and DSA
+- 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development
+- 🤔 I’m looking for help with ... Understanding concepts of DSA
+- 💬 Ask me about ... javascript
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/abhijay-jain-551b01193/)
 - ⚡ Fun fact: Love to play video games 🎮
 
