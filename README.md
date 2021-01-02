@@ -11,5 +11,5 @@
 
 <img align="right" alt="GIF" src="coder1.gif" />
 
-![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true_bg-color=inherit)
+![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&theme=material-palenight)
 
