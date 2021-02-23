@@ -9,7 +9,7 @@
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/abhijay-jain-551b01193/)
 - ⚡ Fun fact: Love to play video games 🎮
 
-<img align="right" alt="coder.gif" src="coder1.gif" width="400"/>
+<img align="right" alt="coder.gif" src="coder1.gif" />
 
 ![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&bg&theme=material-palenight)
 
