@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development!
 - 🤝 I'm looking to team-up for ... Hackathons and coding events 
 - 🤔 I’m looking for help with ... Competitive programming and Understanding concepts of DSA 
-- 💬 Ask me about ... Javascript
+- 💬 Ask me about ... Javascript,React.js,CSS
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/abhijay-jain-551b01193/)
 - ⚡ Fun fact: Love to play video games 🎮
 
