@@ -14,5 +14,5 @@
 
 ![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&bg&theme=material-palenight)
 
-![](https://komarev.com/ghpvc/?username=Abhijay007)
+<!-- ![](https://komarev.com/ghpvc/?username=Abhijay007) -->
  
