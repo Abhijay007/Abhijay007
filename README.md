@@ -12,7 +12,7 @@
 ## 📫 How to reach me:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Abhijay007j@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abhijay-jain-551b01193/detail/recent-activity/)
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FcodeInVeins)
+
 
 ## 🏆 Github Status
 
