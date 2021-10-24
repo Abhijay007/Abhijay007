@@ -16,7 +16,7 @@
 
 ## 🏆 Github Status
 
-<img width=“94” align="right" alt="coder.gif" src="coder1.gif" />
+<img width="350" align="right" alt="coder.gif" src="coder1.gif" />
 
 ![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&bg&theme=material-palenight)
 
