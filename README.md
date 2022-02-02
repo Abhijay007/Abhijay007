@@ -36,9 +36,3 @@
 <img alt="Zapier" src="https://img.shields.io/badge/Zapier%20-%23117AC9.svg?&style=for-the-badge&logo=Zapier&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
-
-<hr>
-
-<p align="center">
-  <img src="https://github.com/Abhijay007/Abhijay007/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
