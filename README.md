@@ -1,4 +1,4 @@
-### Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Abhijay jain 
+### Hi <img alt = gif src ="hand.gif" width= "20"/>, I am Abhijay Jain 
 
 
 - 🔭 I’m currently working on ... My Web Development skills, Open source and bubble projects :rocket:!
