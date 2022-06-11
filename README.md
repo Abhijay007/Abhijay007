@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development!
 - 🤝 I'm looking to team-up for ... Hackathons, coding events and projects.
 - 🤔 I’m looking for help with ... Understanding concepts of DSA 
-- 💬 Ask me about ... Javascript, React.js, CSS.
+- 💬 Ask me about ... Javascript, React.js, CSS, Open-Source.
 - ⚡ Fun fact: Love to play video games 🎮
 
 ## 📫 How to reach me:
