@@ -21,6 +21,9 @@
 
 ![Abhijay's github stats](https://github-readme-stats.vercel.app/api?username=Abhijay007&show_icons=true&hide_border=true&bg&theme=material-palenight)
 
+## 💻🤖 might mint these badges into NFTs <3
+
+[![@codeinveins's Holopin board](https://holopin.me/codeinveins)](https://holopin.io/@codeinveins)
 
 ## 👨‍💻 Tech Stack I am Familiar With
 
