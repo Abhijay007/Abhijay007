@@ -1,6 +1,6 @@
 ### Greetings!
 
-I'm Abhijay, an FOSS enthusiast
+I'm Abhijay, an FOSS enthusiast.
 
 ---
 
