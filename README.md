@@ -19,9 +19,9 @@ Experience | Organization | About Work |
 
 ## You can reach out to me via 
 
-- Linkedin : https://www.linkedin.com/in/abhijayjain007/
+- Linkedin: https://www.linkedin.com/in/abhijayjain007/
 - ProductHunt: https://www.producthunt.com/@abhijay_jain
 - Twitter: https://twitter.com/CodeInVeins
 - Behance : https://www.behance.net/Abhijayjain
 - Medium: https://medium.com/@abhijay007j
-- Mail: Abhijay007j@gmail.comA
+- Mail: Abhijay007j@gmail.com
