@@ -13,7 +13,7 @@ Experience | Organization | About Work |
 **Summer of Bitcoin 2024** | [Spiral](https://spiral.xyz/) (under Block) | [SOB'24 Final work Report](https://drive.google.com/file/d/1W8Xzhmjpd0_uoK22IVyHJFfc_oSmgg4G/view?usp=sharing) | 
 **Engineering For Change** | [Ampaire Inc](https://github.com/AmpaireInc) | [E4C impact Report](https://www.engineeringforchange.org/projects/impactful-visual-design-for-ampaires-electric-aircraft-at-the-forefront-of-sustainable-aviation/#outcomes) |
 **Digital Product School Munich By Unternehmertum** | Inklusions Match |[Final Product Show](https://youtu.be/Cw_W9g1X9FI?feature=shared&t=7001)|
-**Contractual Software Developer** | Uxmagic.Ai |  [Uxmagic.Ai](https://uxmagic.ai/)  - Work account [AbhijayUxmagic](https://github.com/AbhijayUxMagic) - most corntirbutions are private|
+**Contractual Software Developer** | Uxmagic.Ai |  [Uxmagic.Ai](https://uxmagic.ai/)  - Work Account [AbhijayUxmagic](https://github.com/AbhijayUxMagic) - most contributions are private|
 
 ---
 
