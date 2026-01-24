@@ -25,4 +25,3 @@ Experience | Organization | About Work |
 - Twitter: https://twitter.com/CodeInVeins
 - Behance : https://www.behance.net/Abhijayjain
 - Medium: https://medium.com/@abhijay007j
-- Mail: Abhijay007j@gmail.com
