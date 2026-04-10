@@ -17,11 +17,3 @@ Experience | Organization | About Work |
 **Bitshala Developer fellow** | [BTCPay Server](https://github.com/btcpayserver/btcpayserver) | [BTCPay Server PRs](https://github.com/btcpayserver/btcpayserver/pulls?q=is%3Apr+author%3AAbhijay007+) |
 
 ---
-
-## You can reach out to me via 
-
-- Linkedin: https://www.linkedin.com/in/abhijayjain007/
-- ProductHunt: https://www.producthunt.com/@abhijay_jain
-- Twitter: https://twitter.com/CodeInVeins
-- Behance : https://www.behance.net/Abhijayjain
-- Medium: https://medium.com/@abhijay007j
