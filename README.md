@@ -15,5 +15,5 @@ Experience | Organization | About Work |
 **Digital Product School Munich By Unternehmertum, Batch #22** | Inklusions Match |[Final Product Show](https://youtu.be/Cw_W9g1X9FI?feature=shared&t=7001)|
 **Contractual Software Developer** | Uxmagic.Ai |Work Account [AbhijayUxmagic](https://github.com/AbhijayUxMagic) - most contributions are private|
 **Bitshala Developer fellow** | [BTCPay Server](https://github.com/btcpayserver/btcpayserver) | [BTCPay Server PRs](https://github.com/btcpayserver/btcpayserver/pulls?q=is%3Apr+author%3AAbhijay007+) |
-
+**AAIF Ambassador** | [Agentic AI Foundation](https://aaif.io/) | [Ambassador page ](https://aaif.io/ambassadors) |
 ---
